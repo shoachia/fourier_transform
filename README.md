@@ -29,7 +29,11 @@ we can perform the convolution in frequnecy domain.
 * Since the complexity of DFT is **O(NlogN)**, so the complexity of the convolution in frequency domain is
 **O(NlogN) + O(NlogN) + O(N^2) + O(NlogN) = O(N^2 + 3NlogN)**
 As N --> infinity, the complexity becomes **O(N^2)** which is much faster than convolution in spatial domain
-![test image size](https://i.imgur.com/V80x24W.png){:height="300px" width="300px"}![test image size](https://i.imgur.com/ZuFkjnN.png){:height="300px" width="300px"}
+
+![test image size](https://i.imgur.com/V80x24W.png){:height="300px" width="300px"}
+
+![test image size](https://i.imgur.com/ZuFkjnN.png){:height="300px" width="300px"}
+
 ### 3. Adjoint
 Deriving the adjoint kernel of convolution operator.
 ![](https://i.imgur.com/3jOHOIZ.png)
