@@ -8,6 +8,7 @@ We can see there is only two points in the frequency domain, which means that th
 
 <img src="https://i.imgur.com/diQ7hlZ.png" width="400">
 Vice versa.
+
 3. What will changed in the frequency domain when we down-sampling the image?
 <img src="https://i.imgur.com/tEc95nv.png" width="300">
 <img src="https://i.imgur.com/OZYJluX.png" width="300">
