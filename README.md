@@ -2,7 +2,7 @@
 ### Spectral Analysis
 1. Horizontal sinsoidal : 
 ![](https://i.imgur.com/ymlgpKf.png =400x)
-![test image size](https://i.imgur.com/ymlgpKf.png){:height="50%" width="50%"}
+![test image size](https://i.imgur.com/ymlgpKf.png){:height="400px" width="400px"}
 We can see there is only two points in the frequency domain, which means that there are only one frequency in the horizontal direction and DC in vetical direction.
 2. Vertical sinsoidal:
 ![](https://i.imgur.com/diQ7hlZ.png =400x)
