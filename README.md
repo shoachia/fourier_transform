@@ -1,12 +1,17 @@
 # Spectral Convolution
 ### Spectral Analysis
 1. Horizontal sinsoidal : 
+
 ![test image size](https://i.imgur.com/ymlgpKf.png){:height="400px" width="400px"}
+
 We can see there is only two points in the frequency domain, which means that there are only one frequency in the horizontal direction and DC in vetical direction.
 2. Vertical sinsoidal:
+
 ![test image size](https://i.imgur.com/diQ7hlZ.png){:height="400px" width="400px"}
+
 Vice versa.
 3. What will changed in the frequency domain when we down-sampling the image?
+
 ![test image size](https://i.imgur.com/tEc95nv.png){:height="300px" width="300px"}
 ![test image size](https://i.imgur.com/OZYJluX.png){:height="300px" width="300px"}
 ![test image size](https://i.imgur.com/s6lTMHR.png){:height="300px" width="300px"}
